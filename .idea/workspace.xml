@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e66cd119-bf3d-48c6-8f99-a02b6e115822" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IMRA_Project_code.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="e66cd119-bf3d-48c6-8f99-a02b6e115822" name="Changes" comment="added title to readme file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +44,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694585395174</updated>
-      <workItem from="1694585397994" duration="749000" />
+      <workItem from="1694585397994" duration="1397000" />
     </task>
+    <task id="LOCAL-00001" summary="added title to readme file">
+      <option name="closed" value="true" />
+      <created>1694586274920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694586274920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added title to readme file">
+      <option name="closed" value="true" />
+      <created>1694586319910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694586319910</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added title to readme file">
+      <option name="closed" value="true" />
+      <created>1694586376070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694586376070</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added title to readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added title to readme file" />
   </component>
 </project>
